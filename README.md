@@ -92,3 +92,9 @@ def dict_to_dataframe(data_dict):
 ```
 
 ## Análise
+
+A partir de uma breve exploração de dados, agrupei os preços por mês e calculei a média, obtendo essa distribuição:
+
+![medias](medias.png)
+
+Essa análise serve como uma validação dos dados coletados. É amplamente conhecido no interior da Bahia que fevereiro e março são os meses de alta produção do fruto. Esse fenômeno ocorre porque a maioria das chuvas se concentra no verão, em dezembro e janeiro. Os frutos resultantes dessas chuvas amadurecem nos meses seguintes, o que explica a queda nos preços devido ao aumento da oferta, em linha com as leis de oferta e demanda.
