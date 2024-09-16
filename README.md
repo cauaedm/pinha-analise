@@ -99,12 +99,7 @@ A partir de uma breve exploração de dados, agrupei os preços por mês e calcu
 
 Essa análise serve como uma validação dos dados coletados. É amplamente conhecido no interior da Bahia que fevereiro e março são os meses de alta produção do fruto. Esse fenômeno ocorre porque a maioria das chuvas se concentra no verão, em dezembro e janeiro. Os frutos resultantes dessas chuvas amadurecem nos meses seguintes, o que explica a queda nos preços devido ao aumento da oferta, em linha com as leis de oferta e demanda.
 
-<<<<<<< HEAD
-Além disso, é um questionamento sempre presente nas tomadas de decisões na setor agrícola é: plantar quando
-, para colher quando? Os prós e contras se encontram divididos em dois pontos focais, o período de maior valorização da commoditie geralmente apresenta maior risco de colheita, uma vez que o preço é menor porque a produção geral é maior devido as condições climáticas favoráveis. Tentar fugir desse período favorável à colheita é tentar ir contra a natureza. Porém, com a tecnologia adequada e planejamento tecnológico correto, é possível produzir o ano todo, porém, em menores quantidades. 
-=======
 Além disso, um questionamento sempre presente nas tomadas de decisões na setor agrícola é: plantar quando, para colher quando? Os prós e contras se encontram divididos em dois pontos focais, o período de maior valorização da commoditie geralmente apresenta maior risco de colheita, uma vez que o preço é menor porque a produção geral é maior devido as condições climáticas favoráveis. Tentar fugir desse período favorável à colheita é tentar ir contra a natureza. Porém, com a tecnologia adequada e planejamento  correto, é possível produzir o ano todo, porém, em menores quantidades. 
->>>>>>> f78b2d0c0181cc3b14812583c677e49e1449201a
 
 Então, muitos querem saber se o ganho em valorização das commodities em épocas de baixa são suficientes para compensar a baixa nas produções, para assim, plantar em épocas diferentes do mercado. Para tentar responder essa pergunta, podemos usar o gráfico anterior, mas acho esse mais interessante:
 
