@@ -111,8 +111,7 @@ Porém, ainda pode existir uma dúvida: esse fênomeno de hípervalorização em
 
 ![tendencia](tendencia.png)
 
-O gráfico acima torna explícito que é extremamente provável que essa tendência se mantenha para os próximos anos, caso siga os anos anteriores.
-<<<<<<< HEAD
-=======
+O gráfico acima torna explícito que as medições dos anos anteriores são uma tendência à se manter para os próximos anos.
 
->>>>>>> f78b2d0c0181cc3b14812583c677e49e1449201a
+Por fim, realizaria o report principal utilizando conceitos de storytelling com dados, da seguinte forma:
+![report](report.png)
